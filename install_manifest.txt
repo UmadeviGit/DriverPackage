@@ -1,0 +1,3 @@
+C:/Program Files (x86)/Project/bin/DriverPackage.exe
+C:/Program Files (x86)/Project/src/DriverPackage.cpp
+C:/Program Files (x86)/Project/src/readme.txt
